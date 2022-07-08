@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuItemSortNO"
+        android:title="@string/sort_date_newest_oldest" />
+    <item
+        android:id="@+id/menuItemSortAZ"
+        android:title="@string/sort_name_a_z" />
+    <item
+        android:id="@+id/menuItemAddButton"
+        android:title="@string/add_photo" />
+    <item
+        android:id="@+id/menuItemSettings"
+        android:title="@string/user_settings" />
+</menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="MMMM dd, YYYY"
+        android:entries="@array/date_formats"
+        android:entryValues="@array/date_values"
+        android:key="date_format_preference"
+        android:summary="Date format used for photos"
+        android:title="Date Format" />
+</PreferenceScreen>

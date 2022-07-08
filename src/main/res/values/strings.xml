@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">hwk4PhotoAlbum</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="enter_email">Enter email...</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="user_settings">User Settings</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter name...</string>
+    <string name="roy_midence">Roy Midence</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="caption">Caption</string>
+    <string name="location">Location</string>
+    <string name="add_details">Add. Details</string>
+    <string name="sort_name_a_z">Sort A -> Z</string>
+    <string name="string_sort_name_a_z" />
+    <string name="sort_date_newest_oldest">Sort Oldest -> Newest</string>
+</resources>

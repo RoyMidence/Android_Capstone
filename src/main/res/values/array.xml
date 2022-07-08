@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_formats">
+        <item>December 01, 2022</item>
+        <item>Dec 01,2022</item>
+        <item>12/01/22</item>
+    </string-array>
+
+    <string-array name="date_values">
+        <item>MMMM dd, yyyy</item>
+        <item>MMM dd, yyyy</item>
+        <item>MM/dd/yy</item>
+    </string-array>
+
+</resources>
